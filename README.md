@@ -1,6 +1,35 @@
 <div align="center">
   <h1>AppsConnect</h1>
   <p>
+    <strong>A modern, high-performance, and highly secure proxy and network layer application.</strong>
+  </p>
+</div>
+
+## 💬 Feedback & Suggestions
+
+The continuous improvement of AppsConnect depends on your real feedback and valuable ideas. If you encounter any problems or have new ideas, please feel free to share them with us!
+
+### 🐞 Bug Reports
+If you experience any crashes or abnormal behavior during connection configuration, backend management, or device switching, please locate and report the issue using the following method:
+
+- Go to the **[Issues Panel](https://github.com/SKYNetApps/feedback/issues)**, click `New Issue`, and select the **Bug Report** template.
+- Information required: Device system environment (iOS version / macOS chip), steps to reproduce, console logs, or screenshots of the error interface.
+
+### 💡 Feature Requests & Optimizations
+Feel that a certain feature design is not user-friendly enough, or wish to implement new encryption/anti-hijacking features?
+
+- Go to the **[Issues Panel](https://github.com/SKYNetApps/feedback/issues)**, and select the **Feature Request** template.
+- If you have specific UI/UX ideas, it is recommended to attach your sketches or brief explanations in the feedback box. For topics that have room for exploration and discussion, you can also start a topic in the **[Discussions Area](https://github.com/SKYNetApps/feedback/discussions)**.
+
+### 📬 Contact Authors & More Options
+In addition to following up on tickets, you are also welcome to seek support and provide product experience feedback through the following quick channels:
+- Official Tech Community: `[Replace with Telegram or Discord channel URL]`
+- Email Support: `[Replace with your contact email]`
+- User Satisfaction Survey: `[Replace with survey service URL]`
+
+<div align="center">
+  <h1>AppsConnect</h1>
+  <p>
     <strong>一个现代化、高性能且高度安全的代理与网络层应用</strong>
   </p>
 </div>
