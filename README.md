@@ -12,14 +12,14 @@ AppsConnect 的迭代离不开您的真实反馈与宝贵构思。遇到问题�
 ### 🐞 提交使用上的 Bug（缺陷上报）
 如果您在连接配置、后台查看或是设备流转中遇到任何异常崩溃，请采用如下方式定位和反馈：
 
-- 前往 **[Issues 面板](#)**，点击 `New Issue`，并选取 **Bug Report** 模版。
+- 前往 **[Issues 面板](https://github.com/SKYNetApps/feedback/issues)**，点击 `New Issue`，并选取 **Bug Report** 模版。
 - 所需提供的信息：设备系统环境（iOS 版本 / macOS 芯片）、复现路径、控制台日志或是出错时的界面截屏。
 
 ### 💡 提交优化建议与功能诉求（功能反馈）
 觉得某个功能设计不够人性化，或是希望能实现新的加密/防劫持特性？
 
-- 前往 **[Issues 面板](#)**，选择 **Feature Request** 模版。
-- 如果有具体的界面构思想法，推荐在反馈框里附录您画的草图或简单说明。有探讨空间的问题也可以前往 **[Discussions 区](#)** 发起一个话题提问。
+- 前往 **[Issues 面板](https://github.com/SKYNetApps/feedback/issues)**，选择 **Feature Request** 模版。
+- 如果有具体的界面构思想法，推荐在反馈框里附录您画的草图或简单说明。有探讨空间的问题也可以前往 **[Discussions 区](https://github.com/SKYNetApps/feedback/discussions)** 发起一个话题提问。
 
 ### 📬 联系作者与更多选项
 除了工单跟进，也欢迎通过以下的快速通道寻求支持和反馈产品体验：
